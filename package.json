@@ -1,0 +1,25 @@
+{
+  "name": "crowdfunding_platform",
+  "version": "1.0.0",
+  "description": "site for crowdfunding campaigns",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "server": "nodemon app.js"
+  },
+  "keywords": [
+    "crowdfunding",
+    "MERN"
+  ],
+  "author": "Polina Liutsko <polina.liutsko@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.3.1",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.13"
+  },
+  "devDependencies": {
+    "concurrently": "^5.2.0",
+    "nodemon": "^2.0.3"
+  }
+}
