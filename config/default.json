@@ -1,4 +1,4 @@
 {
   "port": 5000,
-  "mongoUri": "mongodb+srv://polina:0192837465@cluster0-yt3s2.azure.mongodb.net/app?retryWrites=true&w=majority"
+  "mongoUri": "mongodb+srv://polina:0192837465@cluster0-l9mff.azure.mongodb.net/app?retryWrites=true&w=majority"
 }
