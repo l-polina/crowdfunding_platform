@@ -1,4 +1,5 @@
 {
   "port": 5000,
+  "jwtSecret": "secret key",
   "mongoUri": "mongodb+srv://polina:0192837465@cluster0-l9mff.azure.mongodb.net/app?retryWrites=true&w=majority"
 }
